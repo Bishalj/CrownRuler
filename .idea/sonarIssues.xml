@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjectRepoBackend/turtle_ansible/v2/roles/deploy-turtlemint-admin/templates/config.stage.js.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjectRepoBackend/turtle_ansible/v2/vars/turtlemint/common_stage_constants.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Bishal_Practice/DataStructure/src/access_specifiers/com/HCK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Bishal_Practice/DataStructure/src/binarysearchtree/TreeSetOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Bishal_Practice/DataStructure/src/dynamic_programming/CoinChange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Bishal_Practice/DataStructure/src/paypal/PaintBuildings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/common/constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/common/encryption/CipherUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/constants/KingdomDetailsConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/controller/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/constants/KingdomDetailsConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/controller/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/main/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/mappers/KingdomMessageRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/AllyKingdom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/AllyKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/KingdomMessageMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/KingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/RulerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomMessageMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/RulerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/mappers/KingdomMessageRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/models/Kingdom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/services/IAllyKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/services/IKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/services/impl/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/services/impl/KingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/services/implementation/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/utils/CipherUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/validation/service/FileValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/validation/service/RequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/validation/service/implementation/FileValidationImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/tameofthrones/validation/service/implementation/RequestValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/validation/service/IRequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/validation/service/RequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/geektrust/validation/service/implementation/RequestValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/common/encryption/CipherUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/constants/KindomDetailsConstantTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/constants/KingdomDetailsConstantTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/constants/TameOfThronesConstantsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/controller/TameOfThronesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/controller/TameOfThronesTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/initializer/AllyKingdomInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/initializer/KingdomMessageRequestInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/constants/KingdomDetailsConstantTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/impl/AllyKingdomImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/impl/KingdomServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomMessageMapperImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/RulerServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/v1-services/impl/AllyKingdomImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/kingdom/v1-services/impl/KingdomServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/main/TameOfThronesTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/services/impl/AllyKingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/services/impl/KingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/utils/CipherUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/validation/service/implementation/FileValidationImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/tameofthrones/validation/service/implementation/RequestValidationImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/geektrust/test_input_files/input.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/impl/PolicyIssuanceTransferOperationsLocationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/controller/PolicyAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/IPolicyDetailsDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/impl/PolicyDetailsDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/policy/duplicate/services/impl/DuplicatePolicyCheckServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/IPolicyDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/MISFileManagerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/conf/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/initialize/DuplicatePolicyCheckQueryInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/health-service/application.stage.conf.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/turtle_ansible/v2/roles/deploy-export-service/templates/.env.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/turtle_ansible/v2/roles/deploy-tm-services/templates/python/.export-service.env.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/turtle_ansible/v2/vars/turtlemint/common_stage_constants.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../check/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/config/MongoConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../check/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/config/MongoConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/controller/CabDetailsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/controller/DriverDetailsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/controller/DriverLocationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/config/MongoConfigTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/details/controller/CabDetailsControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/details/controller/DriverDetailsControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/details/initializer/DriverDetailsInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/details/services/CabDetailsServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/details/services/implementation/DriverDetailServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/location/controller/DriverLocationControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/location/dao/implementation/DriverLocationDaoImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/test/org/codejudge/sb/driver/location/service/implementation/DriverLocationServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
