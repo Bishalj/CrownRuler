@@ -1,3 +1,7 @@
+**Pre-requisite**
+1. Java 8
+2. Apache Maven 
+
 
 **Command to build the application**  
  - `mvn install`  
